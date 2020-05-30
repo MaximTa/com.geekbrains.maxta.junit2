@@ -16,7 +16,7 @@ public class MainAppTests extends MainApp {
                 Arguments.arguments(new int[] {1,4,4,1,1,4,3}, false)
         );
     }
-
+//hw4.2
     @ParameterizedTest
     @MethodSource (value = "checkArrNumbers")
 
